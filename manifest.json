@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ganja",
+	"name": "Obsidian Ganja Plugin",
+	"version": "0.0.1",
+	"minAppVersion": "0.9.12",
+	"description": "Obsidian plugin to embed ganja.js tool into markdown notes.",
+	"author": "Dmitriy Shulha",
+	"authorUrl": "https://github.com/Dmitriy-Shulha",
+	"isDesktopOnly": false
+}
